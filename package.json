@@ -1,6 +1,6 @@
 {
-  "name": "phaser-ts-template",
-  "version": "0.0.0",
+  "name": "smm",
+  "version": "0.0.1",
   "homepage": "https://tiamatcod3.github.io/smm",
   "scripts": {
     "predeploy": "npm run build",
